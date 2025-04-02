@@ -1,0 +1,14 @@
+C:\Users\dykes\Documents\.MIS\321\PA4 - PirateBattleGame\bin\Debug\net8.0\PA4 - PirateBattleGame.exe
+C:\Users\dykes\Documents\.MIS\321\PA4 - PirateBattleGame\bin\Debug\net8.0\PA4 - PirateBattleGame.deps.json
+C:\Users\dykes\Documents\.MIS\321\PA4 - PirateBattleGame\bin\Debug\net8.0\PA4 - PirateBattleGame.runtimeconfig.json
+C:\Users\dykes\Documents\.MIS\321\PA4 - PirateBattleGame\bin\Debug\net8.0\PA4 - PirateBattleGame.dll
+C:\Users\dykes\Documents\.MIS\321\PA4 - PirateBattleGame\bin\Debug\net8.0\PA4 - PirateBattleGame.pdb
+C:\Users\dykes\Documents\.MIS\321\PA4 - PirateBattleGame\obj\Debug\net8.0\PA4 - PirateBattleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dykes\Documents\.MIS\321\PA4 - PirateBattleGame\obj\Debug\net8.0\PA4 - PirateBattleGame.AssemblyInfoInputs.cache
+C:\Users\dykes\Documents\.MIS\321\PA4 - PirateBattleGame\obj\Debug\net8.0\PA4 - PirateBattleGame.AssemblyInfo.cs
+C:\Users\dykes\Documents\.MIS\321\PA4 - PirateBattleGame\obj\Debug\net8.0\PA4 - PirateBattleGame.csproj.CoreCompileInputs.cache
+C:\Users\dykes\Documents\.MIS\321\PA4 - PirateBattleGame\obj\Debug\net8.0\PA4 - PirateBattleGame.dll
+C:\Users\dykes\Documents\.MIS\321\PA4 - PirateBattleGame\obj\Debug\net8.0\refint\PA4 - PirateBattleGame.dll
+C:\Users\dykes\Documents\.MIS\321\PA4 - PirateBattleGame\obj\Debug\net8.0\PA4 - PirateBattleGame.pdb
+C:\Users\dykes\Documents\.MIS\321\PA4 - PirateBattleGame\obj\Debug\net8.0\PA4 - PirateBattleGame.genruntimeconfig.cache
+C:\Users\dykes\Documents\.MIS\321\PA4 - PirateBattleGame\obj\Debug\net8.0\ref\PA4 - PirateBattleGame.dll
